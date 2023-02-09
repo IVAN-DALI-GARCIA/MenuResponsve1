@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: player
+    uniqueID: 2536284977
+    locked: 0
+  - name: fondo
+    uniqueID: 1015191907
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: PrimerPlano
+    uniqueID: 328685587
     locked: 0
