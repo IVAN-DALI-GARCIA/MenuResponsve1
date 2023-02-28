@@ -24,7 +24,7 @@ public class DragControl : MonoBehaviour, IPointerUpHandler,IPointerDownHandler,
 
     public void OnDrag(PointerEventData eventData)
     {
-        transform.position =eventData.position;
+        transform.position = eventData.position;
     }
 
     public void OnBeginDrag(PointerEventData eventData)
